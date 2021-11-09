@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 50px;
+width: 100%;
+margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+
+.links
+{
+    background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 20px;
+  width: 300px;
+}
+.back{
+    background-color: #000000;
+  color: rgb(255, 255, 255);
+  padding: 14px 25px;
+  text-align: center;
+  
+  display: inline-block;
+
+  
+ 
+}
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 150px;
+}
